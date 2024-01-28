@@ -4,7 +4,7 @@ A python script that alerts you when free food is posted to subreddits via disco
 
 ## Table of Contents
 
-- [Description](#decription)
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
 
